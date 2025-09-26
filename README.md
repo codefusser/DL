@@ -1,2 +1,2 @@
 # DL
-Deep Learning practical learning
+Deep Learning practical understanding
